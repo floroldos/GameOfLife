@@ -32,3 +32,5 @@ namespace PII_Game_Of_Life
             }
         }
  }
+
+/*La clase cumple el principio SRP ya que tiene una sola función asignada, la cual es devolver el tablero en forma de string, para poder imprimirlo.*/

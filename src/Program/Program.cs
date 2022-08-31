@@ -18,3 +18,7 @@ namespace PII_Game_Of_Life
         }
     }
 }
+
+/* EXPERT.
+Program es el Experto en información. Tiene la información de todas las clases y se encarga de llamar todo lo necesario para "correr" el programa.
+No hay clases que tengan más de una tarea. Program accede a todas las clases.*/

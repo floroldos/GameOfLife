@@ -24,3 +24,5 @@ namespace PII_Game_Of_Life
         }
     }
 }
+
+/*La clase cumple el principio SRP ya que tiene una sola función asignada, la cual es leer el archivo que contiene las filas de la matriz para armar el tablero.*/
